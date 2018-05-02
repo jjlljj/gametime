@@ -1,6 +1,6 @@
 # NightFall
 
-A multiplayer platform fighting game featuring a single player or co-op campaign mode, and a versus mode.  Players can chose between three different character classes to fight head to head on any of the three levels, or defeat the unique challenges of each campaign stage. For single player repo visit: [](http://nightfall.surge.sh/jjlljj/nightfall1p)
+A multiplayer platform fighting game featuring a single player or co-op campaign mode, and a versus mode.  Players can chose between three different character classes to fight head to head on any of the three levels, or defeat the unique challenges of each campaign stage. For single player repo visit: [](http://github.com/jjlljj/nightfall1p)
 
 [Nightfall Singleplayer](http://nightfall.surge.sh/) 
 
